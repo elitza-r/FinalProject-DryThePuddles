@@ -1,0 +1,26 @@
+List of Sorting Layers:
+
+Default
+Interactive Objects
+PickUps
+Player
+
+
+Controls:
+
+Arrow Keys
+
+
+Title:
+
+Dry the Puddles
+
+
+Author:
+
+E. Rodriguez
+
+
+GitHub:
+
+https://github.com/elitza-r/FinalProject-DryThePuddles
